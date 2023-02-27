@@ -20,6 +20,11 @@ This application code demonstrates the back end interface between NODE JS and SQ
 5) Change MySQL username and password in Connection.js file or .env file to match your credentials.
 6) Run the application by typing `node server.js` in the terminal.
 
+## Schema
+
+![screenshot](assets/images/schema.jpg)
+
+
 ## Links
 
 Github: https://github.com/zafarfast/yt542998782
