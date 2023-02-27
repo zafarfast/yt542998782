@@ -18,13 +18,13 @@ This application code demonstrates the back end interface between NODE JS and SQ
 3) Initialize SQL server by typing `mysql -u <username> -p<password>`.
 4) Go to .\db directory and run schema.sql `source schema.sql`.
 5) Change MySQL username and password in Connection.js file or .env file to match your credentials.
-6) Run the application by typing `node servre.js` in the terminal.
+6) Run the application by typing `node server.js` in the terminal.
 
 ## Links
 
 Github: https://github.com/zafarfast/yt542998782
 
-Screenshare: 
+Screenshare: https://watch.screencastify.com/v/DjGS2H4JwgmUUpHBBVR3
 
 ## Screenshots
 
